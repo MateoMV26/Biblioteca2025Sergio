@@ -614,8 +614,15 @@ public class Biblioteca2025 {
         prestamos.get(pos).setFechaPrest(LocalDate.now());
         }
     }
-}
-     
+
+ /**
+ *mi aporte al proyecto de Sergio
+ * @author Mateo
+ */
+    private void aportacion(){
+        
+ }
+}     
 
 
 
