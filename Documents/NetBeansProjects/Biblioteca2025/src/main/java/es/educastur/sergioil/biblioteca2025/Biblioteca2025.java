@@ -615,6 +615,8 @@ public class Biblioteca2025 {
         }
     }
 
+    
+
  /**
  *mi aporte al proyecto de Sergio
  * @author Mateo
@@ -622,6 +624,14 @@ public class Biblioteca2025 {
     private void aportacion(){
         
  }
+
+/**
+ *mi segundo aporte al proyecto de Sergio
+ * @author Mateo
+ */
+    private void aportacion2(){
+
+    }
 }     
 
 
